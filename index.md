@@ -1,7 +1,7 @@
 # Experiences
 
 ### Novus - Technical Solution Eng  (April 2025 - Present)
-Credit Risk Modelling Team.
+Credit Risk Modelling Team..
 
 ### Novus - Technical Solution Eng  (June 2024 - February 2025)
 Collaborated closely with customers and engineering teams to identify and resolve technical challenges, ensuring seamless API

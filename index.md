@@ -14,7 +14,7 @@ managing project workflows and leading client demos to showcase solutions.
 A modular Python-based system for automated order processing that extracts details from emails, checks warehouse inventory, and generates actionable narratives using OpenAI's language model, designed to streamline inventory management and order fulfillment workflows.
 - [The Code](https://github.com/venturero/email_processing)
   
-## Entrepreneur GPT Clone 
+## Entrepreneur GPT 
 This repository is a ChatGPT clone for entrepreneurship. Users can ask questions only about entrepreneurship. 
 - [The Code](https://github.com/venturero/Entrepreneur_GPT)
 

@@ -14,9 +14,9 @@ managing project workflows and leading client demos to showcase solutions.
 A modular Python-based system for automated order processing that extracts details from emails, checks warehouse inventory, and generates actionable narratives using OpenAI's language model, designed to streamline inventory management and order fulfillment workflows.
 - [The Code](https://github.com/venturero/email_processing)
   
-## ChatGPT Clone
-This repository is a ChatGPT clone created entirely using Vibe Coding with Cursor, where I provided prompts for code generation. 
-- [The Code](https://github.com/venturero/ChatGPT_Clone)
+## Entrepreneur GPT Clone 
+This repository is a ChatGPT clone for entrepreneurship. Users can ask questions only about entrepreneurship. 
+- [The Code](https://github.com/venturero/Entrepreneur_GPT)
 
 ## FastAPI Register Endpoint
 This is a FastAPI application that provides user registration functionality through a local host endpoint. The project utilizes decorators for handling registration errors, OpenTelemetry for monitoring, and Docker for containerization.
@@ -33,4 +33,8 @@ This is a submission project for NCD that allows users to randomly receive a car
 ## Youtube Analysis and Recommendation System
 Our project, based on the data of hundreds of the most popular channels from dozens of different categories, provides a system for our youtuber friends who will be new to the youtube adventure, where they can get category analysis and recommendations.
 - [The Code](https://github.com/venturero/Youtube-Analysis-and-Recommendation-System)
+
+## FAL Image generation
+Generate an Image from Text using a writing prompt through FAL AI.
+- [The Code](https://github.com/venturero/FAL-Image-Generation)
 
